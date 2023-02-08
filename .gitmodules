@@ -1,0 +1,3 @@
+[submodule "committee_learning/external_libraries/cpp-boost-math"]
+	path = committee_learning/external_libraries/cpp-boost-math
+	url = https://github.com/boostorg/math.git
