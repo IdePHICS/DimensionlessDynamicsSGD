@@ -523,7 +523,5 @@ committee_learning/**/*.c
 committee_learning/**/*.cpp
 !committee_learning/committee_learning/ode/erf_integrals.cpp
 committee_learning/**/*.html
-computation-database/
 __cluster*.py
 committee_learning/include/*
-paper/figures/*
