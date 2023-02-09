@@ -1,7 +1,9 @@
 
 # A unifying approach to SGD in two-layers nets
+<div width=auto>
 <img src="figures/scatter.gif" width="49%"/>
 <img src="figures/histogram.gif" width="49%"/>
+</div>
 
 <p><i>
  Left: evolution of student's weights overlapping with two neurons teacher, in classical regime. <br>
