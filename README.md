@@ -7,7 +7,7 @@
 
 <p><i>
  Left: evolution of student's weights overlapping with two neurons teacher, in classical regime. <br>
- Right: evolution of the student overlapping distribution if a single neuron teacher, in the mean-field regime.
+ Right: evolution of the student overlapping distribution with a single neuron teacher, in the mean-field regime.
 </i><p>
 
 <!-- ### Abstract
