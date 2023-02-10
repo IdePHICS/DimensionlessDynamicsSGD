@@ -22,7 +22,7 @@ This manuscript investigates the one-pass stochastic gradient descent (SGD) dyna
 ## Installation
 ```bash
 # Clone the repo (with submodules!)
-git clone --recurse-submodules https://github.com/IdePHICS/DimensionlessDynamicsSGD
+git clone --recurse-submodules <insert repo link>
 cd DimensionlessDynamicsSGD/
 # Install Python requirements
 pip install -r requirements
