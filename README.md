@@ -23,6 +23,7 @@ This manuscript investigates the one-pass stochastic gradient descent (SGD) dyna
 ```bash
 # Download the repository files. 
 # Unfortunately, the anonimize repo does not allow the 'git clone' command.
+# For the code to work, git submodules must also be installed.
 
 cd DimensionlessDynamicsSGD/
 # Install Python requirements
