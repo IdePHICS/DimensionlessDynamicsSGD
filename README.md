@@ -29,3 +29,6 @@ pip install -r requirements
 # Install committee_learning package (it requires g++)
 pip install -e committee_learning/
 ```
+ 
+#### Reference 
+Luca Arnaboldi, Ludovic Stephan, Florent Krzakala, Bruno Loureiro *From high-dimensional & mean-field dynamics to dimensionless ODEs: A unifying approach to SGD in two-layers networks*, 2023 <https://arxiv.org/abs/2305.18502>.
